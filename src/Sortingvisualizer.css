@@ -1,0 +1,29 @@
+.array-container{
+    left:100px;
+    width: auto;
+    transform: rotateX(180deg);
+    
+}
+
+.array-bar{
+    width: 2px;
+    background-color:white;
+    margin: 1px;
+    display: inline-block;
+    position: relative;
+    bottom: 0;
+}
+.navigation{
+    height: 60px;
+    font-size: 40px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:rgb(234, 27, 76);
+    margin-bottom: 20px;
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+    column-gap: 6px;
+    margin-bottom: 20px;
+
+}
